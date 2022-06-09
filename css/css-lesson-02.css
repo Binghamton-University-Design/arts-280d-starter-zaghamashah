@@ -1,9 +1,8 @@
 body {
-	background-color: #202030;
 	color:  #000;
 	font-size: 16px;
 	font-family: 'Noto Sans JP', sans-serif;
-	background: url('../images/night-sky.jpg');
+	background: url('../images/rice.jpg');
 	background-size: cover;
 	background-repeat: none;
 }
@@ -16,7 +15,6 @@ body {
 
 .article {
 	padding: 60px 0 20px 0;
-	background-color: #fff;
 
 }
 
@@ -28,18 +26,19 @@ img {
 }
 
 h1. p {
-	margin-left: 20px;
-	margin-right: 20px;
+	margin: 20px;
 }
 
 p {
 	font-weight: 300;
 	line-height: 1.6;
+	background-color: #FDFFFC;
 }
 
 p.byline {
 	color #666;
 	font-size: 14px;
+	background: none;
 }
 
 h1 {
@@ -49,9 +48,10 @@ font-weight: 900;
 }
 
 .article a {
-	color: #635C51;
+	color: #C1292E;
 }
 
 .article a:hover {
 	text-decoration: none;
 }
+
