@@ -1,0 +1,57 @@
+body {
+	background-color: #202030;
+	color:  #000;
+	font-size: 16px;
+	font-family: 'Noto Sans JP', sans-serif;
+	background: url('../images/night-sky.jpg');
+	background-size: cover;
+	background-repeat: none;
+}
+
+#wrapper {
+	margin:  2em auto ;
+	max-width:  960px ;
+	padding: 0 20px;
+}
+
+.article {
+	padding: 60px 0 20px 0;
+	background-color: #fff;
+
+}
+
+img {
+	display: block;
+	width: 100%;
+	height: auto;
+	margin: 60px 0;
+}
+
+h1. p {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+p {
+	font-weight: 300;
+	line-height: 1.6;
+}
+
+p.byline {
+	color #666;
+	font-size: 14px;
+}
+
+h1 {
+font-family: 'Roboto', sans-serif;
+font-weight: 900;
+	margin-top: 0;
+}
+
+.article a {
+	color: #635C51;
+}
+
+.article a:hover {
+	text-decoration: none;
+}
